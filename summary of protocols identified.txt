@@ -1,0 +1,10 @@
+summary of protocols identified
+
+DNS- Used to resolve domain names
+TCP- Used for establishing connection to websites.
+ICMP- Generated from the ping command.
+ARP- Used for resolving MAC address of the gateway.
+
+FINALLY
+
+Traffic captured showed normal browsing and ping activity. Packets included DNS name resolution, TCP connections, ICMP ping packets, and ARP requests.
